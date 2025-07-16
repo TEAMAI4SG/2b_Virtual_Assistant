@@ -87,8 +87,8 @@
 
 
 You see two nodes:
-**Welcome:** Contains a greeting that is displayed to your users when they first engage with the assistant.
-**Anything else:** Contains phrases that are used to reply to users when their input is not recognized.
+- **Welcome:** Contains a greeting that is displayed to your users when they first engage with the assistant.
+- **Anything else:** Contains phrases that are used to reply to users when their input is not recognized.
 
 ![Picture 13](screenshots/pic13.png)
 
