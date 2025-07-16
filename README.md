@@ -9,7 +9,7 @@
 
 ---
 
-## Estimated time: 
+## ⏱️ Estimated time: 
 - 30 minutes
 
 ---
