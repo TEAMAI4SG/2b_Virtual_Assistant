@@ -27,7 +27,7 @@
 
 ![Picture 2](screenshots/pic2.png) 
 
-3. After clicking on “Watson Assistant-cq” (or a different name that you might have), you will see the home page for this Watson Assistant. Click on “Launch Watson Assistant”. A new window will open and it takes a few seconds to load the Watson Assistant.
+3. After clicking on **“Watson Assistant-cq”** (or a different name that you might have), you will see the home page for this Watson Assistant. Click on “Launch Watson Assistant”. A new window will open and it takes a few seconds to load the Watson Assistant.
 
 ![Picture 3](screenshots/pic3.png)
 
