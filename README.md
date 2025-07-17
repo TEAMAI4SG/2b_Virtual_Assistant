@@ -23,7 +23,7 @@
 
 ![Picture 1](screenshots/pic1.png) 
 
-Search for **“Watson Assistant”** and I see “Watson Assistant-cq” pop up and I click on that. You probably have a different name from mine. The code after “Watson Assistant” is randomly generated but you can always change it. You may have multiple Watson Assistant services. Or if you don’t have any, please go ahead and create a Watson Assistant as you did in the previous lab.
+Search for **“Watson Assistant”** and I see **“Watson Assistant-cq”** pop up and I click on that. You probably have a different name from mine. The code after “Watson Assistant” is randomly generated but you can always change it. You may have multiple Watson Assistant services. Or if you don’t have any, please go ahead and create a Watson Assistant as you did in the previous lab.
 
 ![Picture 2](screenshots/pic2.png) 
 
